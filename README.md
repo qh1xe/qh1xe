@@ -10,7 +10,7 @@
 <div>
 <h2 align="center"> About me</h2>
   <div align="center">
-<img src="https://cdn.discordapp.com/attachments/930780472450113587/1305653037326663780/IMG_4934.jpg?ex=6737c425&is=673672a5&hm=f6b846c07fa06f25d1c3400d8d6a484d93dce62a7b5517d64a49cbf387449971&" width="200px" align="right">
+<img src="https://cdn.discordapp.com/attachments/930780472450113587/1305653037326663780/IMG_4934.jpg?ex=6737c425&is=673672a5&hm=f6b846c07fa06f25d1c3400d8d6a484d93dce62a7b5517d64a49cbf387449971&" width="200px" align="center">
   </div>
 <li>
  <b>Name:</b> Chloe</li>
@@ -29,7 +29,7 @@
 <br><br><br>
 </div>
 <div>
-<h2 align="center">            Coding lanuages </h2>
+<h2 align="center"> Coding lanuages </h2>
  <br>
 <p>
 
@@ -40,7 +40,7 @@
 
 </p>
 <br>
-<h2 align="center">          Contact me!</h2>
+<h2 align="center"> Contact me! </h2>
 
 <br>
 <p align="center">Most used socials</p>
