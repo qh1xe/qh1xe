@@ -24,6 +24,9 @@
 <b>LastFM:</b> https://www.last.fm/user/qh1xe
 </li>
 <li>
+<b>Sports:</b> Football, dance
+</li>
+<li>
 <b>Working/school @:</b> Bit Academy (Front-End Developer)
 </li>
 <br><br><br>
