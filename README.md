@@ -27,7 +27,7 @@
 <b>Sports:</b> Football, dance
 </li>
 <li>
-<b>Working/school @:</b> Bit Academy (Front-End Developer)
+<b>Working/school @:</b> Bit Academy (Front-End Developer) (2024-2025), ROCvA Zuid-oost Software Developer (current)
 </li>
 <br><br><br>
 </div>
