@@ -15,7 +15,7 @@
 <li>
  <b>Name:</b> Chloe</li>
 <li>
-<b>Age:</b> 16
+<b>Age:</b> 17
 </li>
 <li>
 <b>Languages:</b> English/Dutch
