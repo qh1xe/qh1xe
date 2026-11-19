@@ -24,7 +24,7 @@
 <b>LastFM:</b> https://www.last.fm/user/qh1xe
 </li>
 <li>
-<b>Sports:</b> Football, dance
+<b>Sports:</b> Football
 </li>
 <li>
 <b>Working/school @:</b> Bit Academy (Front-End Developer) (2024-2025), ROCvA Zuid-oost Software Developer (current)
